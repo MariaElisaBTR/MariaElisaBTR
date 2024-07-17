@@ -16,9 +16,9 @@
 
 <p> 
   
-  <a href="https://www.linkedin.com/in/mariaelisabtr/">![image](https://github.com/user-attachments/assets/68dfe3d7-5aa0-4e2f-94a2-9af8ee521f04)</a>
-  <a href="https://www.instagram.com/stories/highlights/17989595744591905/">![image](https://github.com/user-attachments/assets/1a98a50b-9cae-471d-a4a7-4c63e45ee43f)</a>
-  <a href="mecoding01@gmail.com">![image](https://github.com/user-attachments/assets/f9cd5430-5a2d-434d-893d-c9b0f1160b9f)</a>
+  <a href="https://www.linkedin.com/in/mariaelisabtr/" target="_blank">![image](https://github.com/user-attachments/assets/68dfe3d7-5aa0-4e2f-94a2-9af8ee521f04)</a>
+  <a href="https://www.instagram.com/stories/highlights/17989595744591905/" target="_blank">![image](https://github.com/user-attachments/assets/1a98a50b-9cae-471d-a4a7-4c63e45ee43f)</a>
+  <a href="mecoding01@gmail.com" target="_blank">![image](https://github.com/user-attachments/assets/f9cd5430-5a2d-434d-893d-c9b0f1160b9f)</a>
   
   👉🏼Vamos Compartilhar Conhecimentos!!!<br />
   <p><b>E-Mails:</b> 
